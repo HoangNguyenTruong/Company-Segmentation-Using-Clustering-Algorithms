@@ -40,12 +40,8 @@ This results in 3 segment. First segment is about small-scale enterprises or und
 ![image](https://github.com/user-attachments/assets/bb9e4ec1-9d6e-4dd1-8033-a5a2993ca70a)
 
 * DBSCAN
+
 This results in only 2 segment. First segment is about Firms in this cluster are likely small to medium-sized enterprises with stable but moderate financial performance, characterized by lower risk exposure and predictable cash flows. Second segment consists of Companies in this cluster likely include both large corporations with aggressive financial strategies and high-risk firms experiencing significant volatility in earnings and cash flow.
 
 ![image](https://github.com/user-attachments/assets/f76cc752-0d07-43cb-8cea-67afad829c5c)
 
-
-
-
-
-## Results of the project 
